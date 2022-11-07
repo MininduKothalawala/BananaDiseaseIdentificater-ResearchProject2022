@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "379287453309",
+    "project_id": "banana-79f35",
+    "storage_bucket": "banana-79f35.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:379287453309:android:c55a63282bda0766427b14",
+        "android_client_info": {
+          "package_name": "com.perspicaz.banana_disease_detector"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "379287453309-u9hnodv99jo0h9p5334n4tkq5mgqrlbv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzfXEBANTS-izlcnrgGyWX-jAHUsfl6UE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "379287453309-u9hnodv99jo0h9p5334n4tkq5mgqrlbv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

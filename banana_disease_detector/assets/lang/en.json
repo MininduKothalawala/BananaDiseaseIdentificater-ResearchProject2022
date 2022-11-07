@@ -1,0 +1,18 @@
+{
+    "disease_identification": "Disease Identification",
+    "map_visualization": "Map Visualization",
+    "contacts": "Contact now",
+    "contact_det": "Get information on\nlocal authorized persons",
+    "map_det": "Get to know where these diseases\nhave been spread",
+    "disease_det": "Learn what type of\ndisease harming your\ncultivation and control measures",
+    "image_detection_leaf": "Image Detection for leaf",
+    "image_detection_plant": "Image Detection for plant",
+    "text_detection": "Text Detection",
+    "disease_detection": "Detected Disease",
+    "disease_select": "Select Type",
+    "image_select": "Select Image",
+    "no_image_select": "No image selected.",
+    "image_select_gallery": "Select image from gallery",
+    "image_select_camera": "Select image from camera"
+
+}

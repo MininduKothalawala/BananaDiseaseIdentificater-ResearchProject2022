@@ -1,0 +1,16 @@
+{
+    "disease_identification": "රෝග හදුනාගැනීම ",
+    "map_visualization": "සිතියම් දෘශ්‍යකරණය",
+    "contacts": "දැන් අමතන්න",
+    "contact_det": "ප්‍රදේශයේ බලයලත්\n පුද්ගලයින් ගැන තොරතුරු\n ලබා ගන්න",
+    "map_det": "මෙම රෝග\n පැතිරී ඇත්තේ \nකොහිදැයි දැන ගන්න",
+    "disease_det": "ඔබේ වගාවට සහ පාලන\n ක්‍රමවලට හානි කරන\nරෝග වර්ගය කුමක්දැයි\n ඉගෙන ගන්න",
+    "image_detection": "රූප හඳුනාගැනීම",
+    "text_detection": "පෙළ හඳුනාගැනීම",
+    "disease_detection": "හඳුනාගත් රෝගය",
+    "disease_select": "වර්ගය තෝරන්න",
+    "image_select": "රූපය තෝරන්න",
+    "no_image_select": "රූපයක් තෝරා නැත.",
+    "image_select_gallery": "ගැලරියෙන් රූපය තෝරන්න",
+    "image_select_camera": "කැමරාවෙන් රූපය තෝරන්න"
+}
